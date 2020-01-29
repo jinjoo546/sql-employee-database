@@ -8,3 +8,8 @@ Design the tables to hold data in the CSVs, import the CSVs into a SQL database,
 2. Data Engineering
 
 3. Data Analysis
+
+
+#### Data Modeling
+
+Inspect the CSVs and sketch out an ERD of the tables.
